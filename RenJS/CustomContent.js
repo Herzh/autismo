@@ -1,13 +1,1 @@
-RenJS.customContent = {
-	//put here your own functions
-
-	// myFunction: function (params) {
-	// 	console.log(params.param1);
-	//	RenJS.resolve();
-	// }
-	helloworld: function (params) {
-		console.log("helloworld");
-		console.log(params);
-				RenJS.resolve();
-	}
-}
+RenJS.customContent={helloworld:function(o){console.log("helloworld"),console.log(o),RenJS.resolve()}};

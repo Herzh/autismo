@@ -1,21 +1,17 @@
-
 start:
   - play morningBGM:
   - show school_morning: WITH FADE
   - show deuzi: happy AT CENTER WITH FADE
   - deuzi says: Mi nombre es Amy, y estudio neurociencias.
   - show deuzi: normal
-
   - deuzi says: Aquí te brindaremos informacion general sobre las personas con autismo
   - show deuzi: happy
   - deuzi says: Comencemos ...
-
   - effect SHOWTITLE:
     title: Primera Parte
     subtitle: Comportamiento
   - deuzi says: Tienden a comportarse explosivos, impulsivos e imperactivos
   - hide deuzi:
-
   - effect SHOWTITLE:
     title: Segunda Parte
     subtitle: Comunicacion
@@ -23,15 +19,12 @@ start:
   - jair says: Principalmente se muestra una limitacion con el lenguaje, poco vocabulario
   - jair says: y dificultades para expresar necesidades.
   - hide jair:
-
-
   - effect SHOWTITLE:
     title: Tercera Parte
     subtitle: Habilidades Sociales
   - show liz: normal
   - liz says: El contacto visual suele ser poco y les cuesta trabajo resolver problemas
   - liz says: e identificar emociones.
-
   - effect SHOWTITLE:
     title: Cuarta Parte
     subtitle: Necesidad de Organización
@@ -40,7 +33,6 @@ start:
   - liz says: De lo contrario se les puede provocar estres.
   - liz says: Su contacto visual es poco y presentan dificultad para resolver problemas dentificar emociones.
   - hide liz:
-
   - effect SHOWTITLE:
     title: Quinta Parte
     subtitle: Sensibilidad Sensorial
@@ -48,17 +40,12 @@ start:
   - marco says: Tienen problemas motices,
   - marco says: son muy sensibles al ruido, al tacto y a los olores.
   - hide marco:
-
-
   - effect SHOWTITLE:
     title: Sexta Parte
     subtitle: Dificultades de Aprendizaje
   - show deuzi: normal
   - deuzi says: Las metodologias tradicionales no son herramientas utiles para ellos,
   - deuzi says: Se deben usar pictogramas y sonidos mas que letras.
-
-
-
   - effect ROLLINGCREDITS:
     endGame: true
     text:
@@ -88,5 +75,3 @@ start:
       - Diseños Mauricio
       - null
       - music por defecto
-
-    
