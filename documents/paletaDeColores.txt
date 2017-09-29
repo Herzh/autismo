@@ -1,0 +1,28 @@
+
+1.- Colores a utilizar en inclusion autista:
+los colores no deben ser fuertes e intensos, deben prevalecer los colores claros
+y pastel, como azul cielo y verde pistache. tratar de no utilizar amarillo, rojo o naranja.
+
+los siguientes codigos de colores son los recomendados:
+
+#ffcdd2 red lighten-4
+#f8bbd0 pink lighten-4
+#e1bee7 purple lighten-4
+#d1c4e9 deep-purple lighten-4
+#c5cae9 indigo lighten-4
+#bbdefb blue lighten-4
+#b3e5fc light-blue lighten-4
+#b2ebf2 cyan lighten-4
+#b2dfdb teal lighten-4
+#c8e6c9 green lighten-4
+#dcedc8 light-green lighten-4
+#f0f4c3 lime lighten-4
+#fff9c4 yellow lighten-4
+#ffecb3 amber lighten-4
+#ffe0b2 orange lighten-4
+#ffccbc deep-orange lighten-4
+#d7ccc8 brown lighten-4
+#f5f5f5 grey lighten-4
+#cfd8dc blue-grey lighten-4
+#000000 black
+#ffffff white

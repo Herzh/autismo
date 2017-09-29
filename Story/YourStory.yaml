@@ -21,7 +21,7 @@ start:
     subtitle: Comunicacion
   - show jair: normal
   - jair says: Principalmente se muestra una limitacion con el lenguaje, poco vocabulario
-  - jair says: y difivultades para expresar necesidades.
+  - jair says: y dificultades para expresar necesidades.
   - hide jair:
 
 
@@ -29,7 +29,7 @@ start:
     title: Tercera Parte
     subtitle: Habilidades Sociales
   - show liz: normal
-  - liz says: El contacto visual suele ser poco y tienen dificultades para resolver problemas
+  - liz says: El contacto visual suele ser poco y les cuesta trabajo resolver problemas
   - liz says: e identificar emociones.
 
   - effect SHOWTITLE:
@@ -45,11 +45,11 @@ start:
     title: Quinta Parte
     subtitle: Sensibilidad Sensorial
   - show marco: normal
-  - marco says: Muestran dificultades motoras,
+  - marco says: Tienen problemas motices,
   - marco says: son muy sensibles al ruido, al tacto y a los olores.
   - hide marco:
 
-    
+
   - effect SHOWTITLE:
     title: Sexta Parte
     subtitle: Dificultades de Aprendizaje
